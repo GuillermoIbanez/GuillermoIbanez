@@ -11,7 +11,7 @@
 <div>
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" align="center"> Check my CV</h2>
   <ul>
-    <li><a href="CV_Guillermo_Ibanez">Click here to check the Presentation.</a> Remember to click "More pages" at the bottom to see all the slides.</li>
+    <li><a href="CV_Guillermo_Ibanez/README.md">Click here to check the Presentation.</a> Remember to click "More pages" at the bottom to see all the slides.</li>
   </ul>
 </div>
 <div>
