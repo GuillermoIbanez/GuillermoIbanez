@@ -44,10 +44,7 @@
 
 
 </div>
-
-
-     
-<div>
+     <div>
   <h2>📋 Summary</h2>
   <p>
   </p>
