@@ -44,34 +44,4 @@
 
 
 </div>
-     <div>
-  <h2>📋 Summary</h2>
-  <p>
-  </p>
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="32" height="32" align="center">Check my Projexts & Skills</h2>
-<table>
-  <tr>
-    <td align="center"><b>Visualisations</b></td>
-    <td align="center"><b>Machine Learning</b></td>
-    <td align="center"><b>AI Automation</b></td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li>Visualisations Portfolio</li>
-      </ul>
-    </td>
-    <td align="left" valign="top">
-      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li>Credit Cards Data Segmentation</li>
-      </ul>
-    </td>
-    <td align="left" valign="top">
-      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li>Customers Orders Extraction | Matching  </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
+
