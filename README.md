@@ -11,10 +11,10 @@
 <div>
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" style="vertical-align: -0.25em;"> 
-    Check my CV
+    Check out my CV
   </h2>
   <ul>
-    <li><a href="https://github.com/GuillermoIbanez/CV_Guillermo_Ibanez/blob/main/README.md">Click here to check my CV.</a></li>
+    <li><a href="https://github.com/GuillermoIbanez/CV_Guillermo_Ibanez/blob/main/README.md">Click here to check out my CV.</a></li>
   </ul>
 </div>
 <div>
@@ -31,17 +31,17 @@
   <tr>
     <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li><a href="https://github.com/GuillermoIbanez/CV_Guillermo_Ibanez/blob/main/README.md">Visualisations Portfolio</a></li>
+        <li><a href="https://github.com/GuillermoIbanez/Visualisations_Portfolio/blob/main/README.md">Visualisations Portfolio</a></li>
       </ul>
     </td>
     <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li><a href="https://github.com/GuillermoIbanez/CV_Guillermo_Ibanez/blob/main/README.md">Credit Cards Data Segmentation</a></li>
+        <li><a href="https://github.com/GuillermoIbanez/Project-Machine_Learning/blob/main/README.md">Credit Cards Data Segmentation</a></li>
       </ul>
     </td>
     <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li><a href="https://github.com/GuillermoIbanez/CV_Guillermo_Ibanez/blob/main/README.md">Customers Orders Extraction | Matching</a></li>
+        <li><a href="https://github.com/GuillermoIbanez/Project-AI_Automation/blob/main/README.md">Customers Orders Extraction | Matching</a></li>
       </ul>
     </td>
   </tr>
