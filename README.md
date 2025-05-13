@@ -24,9 +24,32 @@
 </div>
 <div>
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data Icon" width="32" height="32" align="center"> Project Data Used</h2>
-  <ul>
-    <li><a href="ML_Card_Transactions_Data.csv">Click here to access the dataset.</a> This CSV file contains the credit card transaction data used in the analysis.</li>
-  </ul>
+<table>
+  <tr>
+    <td align="center"><b>Visualisations</b></td>
+    <td align="center"><b>Machine Learning</b></td>
+    <td align="center"><b>AI Automation</b></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li>Visualisations Portfolio</li>
+      </ul>
+    </td>
+    <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li>Credit Cards Data Segmentation</li>
+      </ul>
+    </td>
+    <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li>Customers Orders Extraction | Matching  </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 </div>
 
 
