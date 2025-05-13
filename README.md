@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>CV Guillermo Ibanez</h1>
+  <h1>Guillermo Ibanez</h1>
   <p>
   </p>
   <h1>
