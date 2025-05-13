@@ -16,7 +16,7 @@
 </div>
 
 <div>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data Icon" width="32" height="32" align="center"> Project Data Used</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data Icon" width="32" height="32" align="center">Check out my Projects & Skills | Click on the links below</h2>
 <table>
   <tr>
     <td align="center"><b>Visualisations</b></td>
