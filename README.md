@@ -14,8 +14,10 @@
     <li><a href="https://github.com/GuillermoIbanez/CV_Guillermo_Ibanez/blob/main/README.md">Click here to check my CV.</a></li>
   </ul>
 </div>
+
+     
 <div>
-  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="32" height="32" align="center"> Project Python Code</h2>
+  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="32" height="32" align="center">Check my Projexts & Skills</h2>
   <ul>
     <li><a href="CODE_Machine_Learning_Credit_Cards.ipynb">Click here to check the Python code.</a> This notebook contains the machine learning implementation for credit card analysis.</li>
   </ul>
@@ -34,7 +36,7 @@
   <p>
   </p>
 <div align="center">
-<h2>🛠️ Check out my skills</h2>
+  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="32" height="32" align="center">Check my Projexts & Skills</h2>
 <table>
   <tr>
     <td align="center"><b>Visualisations</b></td>
