@@ -1,12 +1,14 @@
 
 <div align="center">
-  <h1>Guillermo Ibanez</h1>
-</h1>
-  <h1><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="700" height="150"><h1>
-</div>
+  <h1>CV Guillermo Ibanez</h1>
+  <p>
+  </p>
   <h1>
     Data & Financial Analyst
 </h1>
+   <h1><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="700" height="150"><h1>
+  <p>Zürich</p>
+</div>
 <div>
   <h2>📋 Summary</h2>
   <p>
