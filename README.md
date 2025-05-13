@@ -44,8 +44,3 @@
   </tr>
 </table>
 </div>
-
-</div>
-<div align="center">
-  <p>This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
-</div>
