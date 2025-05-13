@@ -10,7 +10,7 @@
 </div>
 <div>
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" style="vertical-align: middle; margin-bottom: 4px;"> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" style="vertical-align: -0.25em;"> 
     Check my CV
   </h2>
   <ul>
@@ -19,7 +19,7 @@
 </div>
 <div>
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data Icon" width="32" height="32" style="vertical-align: middle; margin-bottom: 4px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data Icon" width="32" height="32" style="vertical-align: -0.25em;">
     Check out my Projects & Skills | Click on the links below
   </h2>
 <table>
@@ -46,7 +46,4 @@
     </td>
   </tr>
 </table>
-
-
-</div>
 
