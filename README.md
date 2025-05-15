@@ -27,6 +27,7 @@
     <td align="center"><b>Visualisations</b></td>
     <td align="center"><b>Machine Learning</b></td>
     <td align="center"><b>AI Automation</b></td>
+    <td align="center"><b>HTML</b></td>
   </tr>
   <tr>
     <td align="left" valign="top">
@@ -42,6 +43,11 @@
     <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li><a href="https://github.com/GuillermoIbanez/Project-AI_Automation/blob/main/README.md">Customers Orders Extraction | Matching</a></li>
+      </ul>
+    </td>
+        <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li><a href="https://github.com/GuillermoIbanez/Project-HTML/blob/main/README.md">Customers Orders Extraction | Matching</a></li>
       </ul>
     </td>
   </tr>
