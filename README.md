@@ -47,7 +47,7 @@
     </td>
         <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li><a href="https://github.com/GuillermoIbanez/Project-HTML/blob/main/README.md">Customers Orders Extraction | Matching</a></li>
+        <li><a href="https://github.com/GuillermoIbanez/Project-HTML/blob/main/README.md">HTML CV</a></li>
       </ul>
     </td>
   </tr>
