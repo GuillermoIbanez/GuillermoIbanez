@@ -28,6 +28,7 @@
     <td align="center"><b>Machine Learning</b></td>
     <td align="center"><b>AI Automation</b></td>
     <td align="center"><b>HTML</b></td>
+    <td align="center"><b>Dashboards</b></td>
   </tr>
   <tr>
     <td align="left" valign="top">
@@ -48,6 +49,11 @@
         <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li><a href="https://github.com/GuillermoIbanez/Project-HTML/blob/main/README.md">HTML CV</a></li>
+      </ul>
+    </td>
+      <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li><a href="https://github.com/GuillermoIbanez/Dashboards/blob/main/README.md">Dashboards</a></li>
       </ul>
     </td>
   </tr>
