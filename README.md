@@ -25,16 +25,29 @@
 <table>
   <tr>
     <td align="center"><b>Visualisations</b></td>
+    <td align="center"><b>Dashboards</b></td>
+    <td align="center"><b>AWS Deployment</b></td>
     <td align="center"><b>Machine Learning</b></td>
     <td align="center"><b>AI Automation</b></td>
     <td align="center"><b>HTML</b></td>
-    <td align="center"><b>Dashboards</b></td>
-    <td align="center"><b>AWS Deployment</b></td>
+
   </tr>
   <tr>
     <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li><a href="https://github.com/GuillermoIbanez/Visualisations_Portfolio/blob/main/README.md">Visualisations Portfolio</a></li>
+      </ul>
+    </td>
+    </td>
+      <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li><a href="https://github.com/GuillermoIbanez/Dashboards/blob/main/README.md">Apple Inc. Dashboard</a></li>
+      </ul>
+    </td>
+        </td>
+      <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li><a href="https://github.com/GuillermoIbanez/Project-AWS_Dashboard_Deployment/blob/main/README.md">AWS Dashboard Deployment</a></li>
       </ul>
     </td>
     <td align="left" valign="top">
@@ -51,18 +64,8 @@
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li><a href="https://github.com/GuillermoIbanez/Project-HTML/blob/main/README.md">HTML CV</a></li>
       </ul>
-    </td>
-      <td align="left" valign="top">
-      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li><a href="https://github.com/GuillermoIbanez/Dashboards/blob/main/README.md">Apple Inc. Dashboard</a></li>
-      </ul>
-    </td>
-        </td>
-      <td align="left" valign="top">
-      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li><a href="https://github.com/GuillermoIbanez/Project-AWS_Dashboard_Deployment/blob/main/README.md">AWS Dashboard Deployment</a></li>
-      </ul>
-    </td>
+
+
   </tr>
 </table>
 
