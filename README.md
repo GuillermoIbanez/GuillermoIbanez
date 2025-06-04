@@ -60,7 +60,7 @@
         </td>
       <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li><a href="https://github.com/GuillermoIbanez/Project-AWS_Dashboard_Deployment/blob/main/README.md">AWS Deployment</a></li>
+        <li><a href="https://github.com/GuillermoIbanez/Project-AWS_Dashboard_Deployment/blob/main/README.md">AWS Dashboard Deployment</a></li>
       </ul>
     </td>
   </tr>
