@@ -54,7 +54,7 @@
     </td>
       <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
-        <li><a href="https://github.com/GuillermoIbanez/Dashboards/blob/main/README.md">Dashboards</a></li>
+        <li><a href="https://github.com/GuillermoIbanez/Dashboards/blob/main/README.md">Apple Inc. Dashboard</a></li>
       </ul>
     </td>
         </td>
