@@ -30,7 +30,7 @@
     <td align="center"><b>Machine Learning</b></td>
     <td align="center"><b>AI Automation</b></td>
     <td align="center"><b>HTML</b></td>
-
+    <td align="center"><b>Render Deployment</b></td>
   </tr>
   <tr>
     <td align="left" valign="top">
@@ -64,8 +64,11 @@
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li><a href="https://github.com/GuillermoIbanez/Project-HTML/blob/main/README.md">HTML CV</a></li>
       </ul>
-
-
+    </td>
+        <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li><a href="https://github.com/GuillermoIbanez/Project-Render_Dashboard_deployment/blob/main/README.md">Render Dashboard Deployment</a></li>
+      </ul>
   </tr>
 </table>
 
