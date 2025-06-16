@@ -26,6 +26,7 @@
   <tr>
     <td align="center"><b>Visualisations</b></td>
     <td align="center"><b>Dashboards</b></td>
+     <td align="center"><b>SQL Database</b></td>
     <td align="center"><b>AWS Deployment</b></td>
     <td align="center"><b>Machine Learning</b></td>
     <td align="center"><b>AI Automation</b></td>
@@ -42,6 +43,12 @@
       <td align="left" valign="top">
       <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
         <li><a href="https://github.com/GuillermoIbanez/Dashboards/blob/main/README.md">Apple Inc. Dashboard</a></li>
+      </ul>
+    </td>
+      </td>
+      <td align="left" valign="top">
+      <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+        <li><a href="https://github.com/GuillermoIbanez/Project-SQL/blob/main/README.md">SQL Portfolio</a></li>
       </ul>
     </td>
         </td>
